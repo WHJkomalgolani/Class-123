@@ -1,0 +1,18 @@
+C:\Users\user>dir
+If my_dev is present then,
+cd   my_env
+
+In my_dev create
+cd  scripts
+Then
+activate
+cd..
+
+After this it is not complusory to work on same folder.We can create a seperate folder and work on it.
+
+
+we also need to install scikit-learn library
+Also install pip install pillow
+
+There are some issue with this class 123.Team is working on it.
+Since it is occupying too much memory allocaion.
